@@ -1,0 +1,10 @@
+live guidance from a hospital or certified doctor available
+
+(optional)
+weather api to set the medications according to weather
+video of the medication steps
+ai can access the camera and give the guidelines by voice
+
+
+problems:-
+find nearest hospital's is not working in safari 
