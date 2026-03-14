@@ -1,10 +1,24 @@
-live guidance from a hospital or certified doctor available
+1 live guidance from a hospital or certified doctor available
+2 the chatt bot can take the picture of the injury and give the instructions
+3 injured,and docters post their experience and can have acces to what they 	posted like history of posting
+
+
+
 
 (optional)
+
+
 weather api to set the medications according to weather
 video of the medication steps
 ai can access the camera and give the guidelines by voice
 
 
+
 problems:-
 find nearest hospital's is not working in safari 
+
+
+
+specific info importent 
+
+
