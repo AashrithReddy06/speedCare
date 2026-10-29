@@ -1,0 +1,32 @@
+# Dependencies & Build artifacts
+Backend/target/
+Backend/.mvn/wrapper/maven-wrapper.jar
+ash1/node_modules/
+ash1/build/
+ash1/.pnp
+ash1/.pnp.js
+ash1/coverage/
+
+# IDE & Editor files
+.vscode/
+Backend/.vscode/
+Backend/.idea/
+Backend/*.iml
+ash1/.vscode/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
